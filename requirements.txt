@@ -1,0 +1,5 @@
+pypdf
+pdfplumber
+pymupdf
+pdf2image
+pytest
